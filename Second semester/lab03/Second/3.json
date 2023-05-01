@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Strawberries",
+    "Price": 75,
+    "Category": 3
+  },
+  {
+    "Name": "Butter",
+    "Price": 178,
+    "Category": 2
+  },
+  {
+    "Name": "Salmon",
+    "Price": 300,
+    "Category": 5
+  }
+]
